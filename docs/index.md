@@ -9,6 +9,6 @@ title: Portail projets accoc
 * [walid-amer](https://github.com/AlessHo/Accov_Projet_2017)
 * [mfaour](https://github.com/mfaour/nfp103)
 * [ayounes3333](https://github.com/ayounes3333/nfp103)
-
+* [Georges Harik](https://github.com/georges-h/ProjetAccov)
 # Liens utiles
 
